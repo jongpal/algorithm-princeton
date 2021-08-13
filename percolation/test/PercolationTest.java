@@ -1,4 +1,4 @@
-package io.jongpal;
+// package io.jongpal;
 
 import static org.junit.jupiter.api.Assertions.*;
 import edu.princeton.cs.algs4.StdRandom;
