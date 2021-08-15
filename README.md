@@ -1,5 +1,6 @@
 # algorithm-princeton
-coursera Princeton algorithm course 
+- coursera Princeton algorithm course 
+- you should comment out *package* statement
 
 ## Environment
 - included in pom.xml
